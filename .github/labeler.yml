@@ -1,0 +1,14 @@
+readme:
+  - README.*
+
+interface:
+  - ./workout/interfaces/*
+
+utils:
+  - ./workout/utils/*
+
+training:
+  - ./workout/training/**/*
+
+methods:
+  - ./workout/training/methods/*
